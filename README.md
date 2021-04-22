@@ -1,4 +1,4 @@
-# JavaScript App Template
+# Design Exercise Template
 
 ## Template usage
 
