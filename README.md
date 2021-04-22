@@ -4,6 +4,8 @@
 
 _Don't forget to update the author (and more) in the package.json_
 
+You will find the design and all the information about it in the [`design` folder](./design/README.md).
+
 ## Installation
 
 ```shell
