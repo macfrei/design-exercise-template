@@ -12,6 +12,8 @@ This exercise involves a lot of planning and comminication.
 2. You will have only one repository per team
 3. Split up in groups of 2 to work effectively in pair programming
 4. Use a git workflow with branches to create this group project
+5. You can use the VSCode extension `live-share` to share the sreen
+6. If you work in pair programming, switch who codes after 5-10 minutes
 
 ### Building process
 
